@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/notion-calendar-widget/static/css/main.eefb7a3b.css",
-    "main.js": "/notion-calendar-widget/static/js/main.15c402e5.js",
+    "main.css": "/notion-calendar-widget/static/css/main.e6c13ad2.css",
+    "main.js": "/notion-calendar-widget/static/js/main.912622ec.js",
     "static/js/453.b9ec0cab.chunk.js": "/notion-calendar-widget/static/js/453.b9ec0cab.chunk.js",
     "index.html": "/notion-calendar-widget/index.html",
-    "main.eefb7a3b.css.map": "/notion-calendar-widget/static/css/main.eefb7a3b.css.map",
-    "main.15c402e5.js.map": "/notion-calendar-widget/static/js/main.15c402e5.js.map",
+    "main.e6c13ad2.css.map": "/notion-calendar-widget/static/css/main.e6c13ad2.css.map",
+    "main.912622ec.js.map": "/notion-calendar-widget/static/js/main.912622ec.js.map",
     "453.b9ec0cab.chunk.js.map": "/notion-calendar-widget/static/js/453.b9ec0cab.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.eefb7a3b.css",
-    "static/js/main.15c402e5.js"
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.912622ec.js"
   ]
 }
