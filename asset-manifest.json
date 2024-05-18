@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/notion-calendar-widget/static/css/main.eefb7a3b.css",
+    "main.js": "/notion-calendar-widget/static/js/main.15c402e5.js",
+    "static/js/453.b9ec0cab.chunk.js": "/notion-calendar-widget/static/js/453.b9ec0cab.chunk.js",
+    "index.html": "/notion-calendar-widget/index.html",
+    "main.eefb7a3b.css.map": "/notion-calendar-widget/static/css/main.eefb7a3b.css.map",
+    "main.15c402e5.js.map": "/notion-calendar-widget/static/js/main.15c402e5.js.map",
+    "453.b9ec0cab.chunk.js.map": "/notion-calendar-widget/static/js/453.b9ec0cab.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eefb7a3b.css",
+    "static/js/main.15c402e5.js"
+  ]
+}
